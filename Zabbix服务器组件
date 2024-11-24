@@ -1,0 +1,10 @@
+Zabbix服务器组件
+
+1.
+Zabbix服务器：负责接收来自代理的数据，并存储、处理这些数据。
+
+2.
+数据库：Zabbix数据存储在MySQL，PostgreSQL，SQLite，Oracle等数据库中。
+
+3.
+Web界面：通过Web界面可以配置监控项、查看数据报告、设置触发器等。
